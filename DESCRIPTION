@@ -1,0 +1,11 @@
+Package: MeteoR
+Type: Package
+Title: Meteo in a certain moment in past with temperature & weather like
+Version: 0.1.0
+Author: Mohammed Chaihel
+Maintainer: The package maintainer <mohammed.chaihel@gmail.com>
+Description: The package gives you temperature and what was the weather like in a defined date&time,between 1900 and 2017 in different cities in the world.Now you can now if it was sunny, cloudy,rainy,foggy in a city in the world.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
